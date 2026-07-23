@@ -12,7 +12,7 @@ class Solution {
             int totalcol=mid % col;
             if(matrix[totalrow][totalcol]==target){
                 return true;
-            }else if(matrix[totalrow][totalcol]>target){
+            } if(matrix[totalrow][totalcol]>target){
                 e=mid-1;
             }else{
                 s=mid+1;
