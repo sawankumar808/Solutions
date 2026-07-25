@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sawankumar808/Solutions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sawankumar808/Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/sawankumar808/Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0875-koko-eating-bananas](https://github.com/sawankumar808/Solutions/tree/master/0875-koko-eating-bananas) |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sawankumar808/Solutions/tree/master/0074-search-a-2d-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/sawankumar808/Solutions/tree/master/2643-row-with-maximum-ones) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sawankumar808/Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
