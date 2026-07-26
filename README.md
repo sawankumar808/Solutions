@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sawankumar808/Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/sawankumar808/Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sawankumar808/Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/sawankumar808/Solutions/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sawankumar808/Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0875-koko-eating-bananas](https://github.com/sawankumar808/Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sawankumar808/Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sawankumar808/Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/sawankumar808/Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/sawankumar808/Solutions/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/sawankumar808/Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sawankumar808/Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sawankumar808/Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
