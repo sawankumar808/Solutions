@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sawankumar808/Solutions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sawankumar808/Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/sawankumar808/Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sawankumar808/Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sawankumar808/Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0875-koko-eating-bananas](https://github.com/sawankumar808/Solutions/tree/master/0875-koko-eating-bananas) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sawankumar808/Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sawankumar808/Solutions/tree/master/0074-search-a-2d-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/sawankumar808/Solutions/tree/master/2643-row-with-maximum-ones) |
 ## Hash Table
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sawankumar808/Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/sawankumar808/Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
