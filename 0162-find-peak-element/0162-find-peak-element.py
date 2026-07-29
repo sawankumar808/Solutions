@@ -9,6 +9,7 @@ class Solution:
             if(nums[mid]<nums[mid+1]):
                 s=mid+1
             else:
+    
                 e=mid
         return s
 
