@@ -5,6 +5,7 @@ class Solution:
             if int(num[i])%2!=0:
                
                 return str(num[0:i+1])
+                break
         return ""
             
                 
