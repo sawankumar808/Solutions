@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sawankumar808/Solutions/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/sawankumar808/Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sawankumar808/Solutions/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sawankumar808/Solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/sawankumar808/Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/sawankumar808/Solutions/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/sawankumar808/Solutions/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/sawankumar808/Solutions/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/sawankumar808/Solutions/tree/master/1903-largest-odd-number-in-string) |
