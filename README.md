@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sawankumar808/Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/sawankumar808/Solutions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sawankumar808/Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/sawankumar808/Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sawankumar808/Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sawankumar808/Solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/sawankumar808/Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/sawankumar808/Solutions/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/sawankumar808/Solutions/tree/master/0796-rotate-string) |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/sawankumar808/Solutions/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sawankumar808/Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
