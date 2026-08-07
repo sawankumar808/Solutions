@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sawankumar808/Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sawankumar808/Solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/sawankumar808/Solutions/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/sawankumar808/Solutions/tree/master/0541-reverse-string-ii) |
 ## String
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sawankumar808/Solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/sawankumar808/Solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/sawankumar808/Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0541-reverse-string-ii](https://github.com/sawankumar808/Solutions/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/sawankumar808/Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sawankumar808/Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sawankumar808/Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
