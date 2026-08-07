@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/sawankumar808/Solutions/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sawankumar808/Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sawankumar808/Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1124-longest-well-performing-interval](https://github.com/sawankumar808/Solutions/tree/master/1124-longest-well-performing-interval) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sawankumar808/Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sawankumar808/Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sawankumar808/Solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/sawankumar808/Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sawankumar808/Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sawankumar808/Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1124-longest-well-performing-interval](https://github.com/sawankumar808/Solutions/tree/master/1124-longest-well-performing-interval) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sawankumar808/Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Divide and Conquer
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/sawankumar808/Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1124-longest-well-performing-interval](https://github.com/sawankumar808/Solutions/tree/master/1124-longest-well-performing-interval) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sawankumar808/Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/sawankumar808/Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sawankumar808/Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sawankumar808/Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1124-longest-well-performing-interval](https://github.com/sawankumar808/Solutions/tree/master/1124-longest-well-performing-interval) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sawankumar808/Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Pigeonhole Principle
 |  |
@@ -150,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/sawankumar808/Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1124-longest-well-performing-interval](https://github.com/sawankumar808/Solutions/tree/master/1124-longest-well-performing-interval) |
 <!---LeetCode Topics End-->
