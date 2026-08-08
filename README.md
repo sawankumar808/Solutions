@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sawankumar808/Solutions/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/sawankumar808/Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sawankumar808/Solutions/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/sawankumar808/Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sawankumar808/Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/sawankumar808/Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/sawankumar808/Solutions/tree/master/0525-contiguous-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sawankumar808/Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sawankumar808/Solutions/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/sawankumar808/Solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/sawankumar808/Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/sawankumar808/Solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/sawankumar808/Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/sawankumar808/Solutions/tree/master/0541-reverse-string-ii) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sawankumar808/Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sawankumar808/Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Stack
 |  |
@@ -164,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1124-longest-well-performing-interval](https://github.com/sawankumar808/Solutions/tree/master/1124-longest-well-performing-interval) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sawankumar808/Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
