@@ -1,15 +1,10 @@
 class Solution:
     def lengthOfLastWord(self, s: str) -> int:
-        s=s.strip()
-        n=len(s)
-        i=n-1
+        ans=s.strip()
+        i=len(ans)-1
         count=0
-        while i>=0 and s[i]!=" ":
+        while i>=0 and ans[i]!=" ":
             count+=1
             i-=1
         return count
-
-            
-
-            
-       
+        
