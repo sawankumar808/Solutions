@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/sawankumar808/Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1124-longest-well-performing-interval](https://github.com/sawankumar808/Solutions/tree/master/1124-longest-well-performing-interval) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sawankumar808/Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sawankumar808/Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/sawankumar808/Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/sawankumar808/Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sawankumar808/Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sawankumar808/Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/sawankumar808/Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
