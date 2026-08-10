@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/sawankumar808/Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sawankumar808/Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1124-longest-well-performing-interval](https://github.com/sawankumar808/Solutions/tree/master/1124-longest-well-performing-interval) |
+| [1207-unique-number-of-occurrences](https://github.com/sawankumar808/Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sawankumar808/Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sawankumar808/Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sawankumar808/Solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/sawankumar808/Solutions/tree/master/0771-jewels-and-stones) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sawankumar808/Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1124-longest-well-performing-interval](https://github.com/sawankumar808/Solutions/tree/master/1124-longest-well-performing-interval) |
+| [1207-unique-number-of-occurrences](https://github.com/sawankumar808/Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sawankumar808/Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sawankumar808/Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
