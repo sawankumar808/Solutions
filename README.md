@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sawankumar808/Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sawankumar808/Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sawankumar808/Solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/sawankumar808/Solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sawankumar808/Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/sawankumar808/Solutions/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sawankumar808/Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -233,8 +234,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sawankumar808/Solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/sawankumar808/Solutions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sawankumar808/Solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/sawankumar808/Solutions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
