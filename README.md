@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sawankumar808/Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/sawankumar808/Solutions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sawankumar808/Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/sawankumar808/Solutions/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/sawankumar808/Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sawankumar808/Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sawankumar808/Solutions/tree/master/0078-subsets) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/sawankumar808/Solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/sawankumar808/Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sawankumar808/Solutions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
