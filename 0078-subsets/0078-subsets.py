@@ -1,21 +1,18 @@
 class Solution:
-    def solve(self,nums, index,output,ans):
-        if index>=len(nums):
+    def solve(self, nums, index, output, ans):
+        if index >=len(nums):
             ans.append(output.copy())
             return
+        currvalue=nums[index]
+        output.append(currvalue)
+        self.solve(nums, index+1, output, ans)
 
-        output.append(nums[index])
-        self.solve(nums, index+1,output,ans)
-        output.pop(len(output)-1)
+        output.pop()
+        self.solve(nums, index+1, output, ans)
 
-        
-
-        self.solve(nums,index+1,output,ans)
-    def subsets(self, nums: List[int]) -> List[List[int]]:
+    def subsets(self, nums: list[int]) -> list[list[int]]:
         ans=[]
         output=[]
-        index=0
-        self.solve(nums,index, output,ans)
+        self.solve(nums, 0, output, ans)
         return ans
-
         
