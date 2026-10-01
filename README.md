@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sawankumar808/Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sawankumar808/Solutions/tree/master/0090-subsets-ii) |
 | [0476-number-complement](https://github.com/sawankumar808/Solutions/tree/master/0476-number-complement) |
+| [1009-complement-of-base-10-integer](https://github.com/sawankumar808/Solutions/tree/master/1009-complement-of-base-10-integer) |
 ## Algorithm X
 |  |
 | ------- |
