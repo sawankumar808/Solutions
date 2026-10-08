@@ -5,6 +5,37 @@
 #         self.next = next
 class Solution:
     def mergeNodes(self, head: ListNode | None) -> ListNode | None:
+        read=head.next
+        write=head
+
+        while read is not None:
+            count=0
+            while read.val!=0:
+                count+=read.val
+                read=read.next
+
+            write.val=count# insert sum value
+            write.next=read.next#delete faltu node
+
+            read=read.next #read nad write ko move kro ek ek step
+            write=write.next
+        return head
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        '''
+        brute force approach
         anshead=None
         anstail=None
 
@@ -32,6 +63,7 @@ class Solution:
             curr=curr.next
 
         return anshead
+        '''
         
 
 
