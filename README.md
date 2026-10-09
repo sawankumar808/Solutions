@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sawankumar808/Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/sawankumar808/Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/sawankumar808/Solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sawankumar808/Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/sawankumar808/Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sawankumar808/Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sawankumar808/Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sawankumar808/Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/sawankumar808/Solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sawankumar808/Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/sawankumar808/Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sawankumar808/Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sawankumar808/Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sawankumar808/Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sawankumar808/Solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/sawankumar808/Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sawankumar808/Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sawankumar808/Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sawankumar808/Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sawankumar808/Solutions/tree/master/0344-reverse-string) |
