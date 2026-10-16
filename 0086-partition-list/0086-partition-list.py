@@ -14,14 +14,14 @@ class Solution:
         greaterhead=ListNode(-1)
         greatertail=greaterhead
         curr=head 
-        while curr is not None:
+        while curr is not None:#alga list bani hai hai choti wali
             if curr.val<x:
                 nodetoinsert=curr
                 curr=curr.next
                 nodetoinsert.next=None
                 lessertail.next=nodetoinsert
                 lessertail=nodetoinsert
-            else:
+            else:#alga list bani hai hai badi wali
                 nodetoinsert=curr
                 curr=curr.next
                 nodetoinsert.next=None
