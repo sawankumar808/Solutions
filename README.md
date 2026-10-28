@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sawankumar808/Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sawankumar808/Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2643-row-with-maximum-ones](https://github.com/sawankumar808/Solutions/tree/master/2643-row-with-maximum-ones) |
+| [3978-unique-middle-element](https://github.com/sawankumar808/Solutions/tree/master/3978-unique-middle-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sawankumar808/Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sawankumar808/Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sawankumar808/Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [3978-unique-middle-element](https://github.com/sawankumar808/Solutions/tree/master/3978-unique-middle-element) |
 ## Stack
 |  |
 | ------- |
