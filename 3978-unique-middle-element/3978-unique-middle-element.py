@@ -4,11 +4,17 @@ class Solution:
         n=len(nums)
         mid=n//2
         value=nums[mid]
-        fre=Counter(nums)
-        if fre[value]>1:
-            return False
-        else:
+        count=0
+        for ch in nums:
+            if ch == value:
+                count+=1
+            
+        if count==1:
             return True
+        else:
+            return False
+
+        
             
             
     
