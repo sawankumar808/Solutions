@@ -18,6 +18,7 @@ class Solution:
                     
                 else:
                     st.pop()
+        #check karo ki stack empty huwa ki nahi 
         return not st
         
         
