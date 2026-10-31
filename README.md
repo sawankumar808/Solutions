@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/sawankumar808/Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sawankumar808/Solutions/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/sawankumar808/Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1124-longest-well-performing-interval](https://github.com/sawankumar808/Solutions/tree/master/1124-longest-well-performing-interval) |
@@ -305,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sawankumar808/Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sawankumar808/Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
