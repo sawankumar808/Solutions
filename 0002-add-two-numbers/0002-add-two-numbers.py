@@ -12,14 +12,14 @@ class Solution:
 
         carry=0
         
-        while l1 is not None or l2 is not None or carry!=0:
+        while curr is not None or curr2 is not None or carry!=0:
             count=0
-            if l1 is not None:
-                count+=l1.val
-                l1=l1.next
-            if l2 is not None:
-                count+=l2.val
-                l2=l2.next
+            if curr is not None:
+                count+=curr.val
+                curr=curr.next
+            if curr2 is not None:
+                count+=curr2.val
+                curr2=curr2.next
 
             count+= carry
             digit=count%10
