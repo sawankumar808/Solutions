@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sawankumar808/Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/sawankumar808/Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sawankumar808/Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/sawankumar808/Solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/sawankumar808/Solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/sawankumar808/Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/sawankumar808/Solutions/tree/master/0541-reverse-string-ii) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/sawankumar808/Solutions/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/sawankumar808/Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sawankumar808/Solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/sawankumar808/Solutions/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sawankumar808/Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/sawankumar808/Solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/sawankumar808/Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/sawankumar808/Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/sawankumar808/Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sawankumar808/Solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/sawankumar808/Solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/sawankumar808/Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
