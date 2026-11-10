@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sawankumar808/Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sawankumar808/Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/sawankumar808/Solutions/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/sawankumar808/Solutions/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/sawankumar808/Solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/sawankumar808/Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/sawankumar808/Solutions/tree/master/0541-reverse-string-ii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/sawankumar808/Solutions/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sawankumar808/Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/sawankumar808/Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sawankumar808/Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sawankumar808/Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/sawankumar808/Solutions/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/sawankumar808/Solutions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/sawankumar808/Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/sawankumar808/Solutions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sawankumar808/Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/sawankumar808/Solutions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/sawankumar808/Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/sawankumar808/Solutions/tree/master/0901-online-stock-span) |
 | [1124-longest-well-performing-interval](https://github.com/sawankumar808/Solutions/tree/master/1124-longest-well-performing-interval) |
