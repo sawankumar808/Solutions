@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/sawankumar808/Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sawankumar808/Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sawankumar808/Solutions/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/sawankumar808/Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sawankumar808/Solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/sawankumar808/Solutions/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sawankumar808/Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sawankumar808/Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/sawankumar808/Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/sawankumar808/Solutions/tree/master/0402-remove-k-digits) |
+| [0735-asteroid-collision](https://github.com/sawankumar808/Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sawankumar808/Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/sawankumar808/Solutions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sawankumar808/Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/sawankumar808/Solutions/tree/master/0735-asteroid-collision) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/sawankumar808/Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Depth-First Search
 |  |
