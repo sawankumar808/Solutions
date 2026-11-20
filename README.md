@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sawankumar808/Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sawankumar808/Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sawankumar808/Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/sawankumar808/Solutions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/sawankumar808/Solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sawankumar808/Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/sawankumar808/Solutions/tree/master/0162-find-peak-element) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/sawankumar808/Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sawankumar808/Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/sawankumar808/Solutions/tree/master/0085-maximal-rectangle) |
 | [2643-row-with-maximum-ones](https://github.com/sawankumar808/Solutions/tree/master/2643-row-with-maximum-ones) |
 ## Hash Table
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sawankumar808/Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/sawankumar808/Solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sawankumar808/Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/sawankumar808/Solutions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/sawankumar808/Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sawankumar808/Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/sawankumar808/Solutions/tree/master/0394-decode-string) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sawankumar808/Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/sawankumar808/Solutions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/sawankumar808/Solutions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/sawankumar808/Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/sawankumar808/Solutions/tree/master/0901-online-stock-span) |
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sawankumar808/Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/sawankumar808/Solutions/tree/master/0085-maximal-rectangle) |
 | [0509-fibonacci-number](https://github.com/sawankumar808/Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
