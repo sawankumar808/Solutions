@@ -5,13 +5,17 @@ class Solution:
 
         """
         pos=0
-        n=len(nums)
-        for i in range(n):
-            if nums[i]!=0:
-                nums[pos]=nums[i]
+        for i,ch in enumerate(nums):
+            if ch!=0:
+                nums[pos]=ch
                 pos+=1
-        while pos<n:
-            nums[pos]=0
-            pos+=1
+        for i in range(pos,len(nums)):
+            nums[i]=0
+            
+        
+        
+
+
+
                 
         
