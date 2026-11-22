@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sawankumar808/Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sawankumar808/Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sawankumar808/Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/sawankumar808/Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sawankumar808/Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sawankumar808/Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/sawankumar808/Solutions/tree/master/0485-max-consecutive-ones) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sawankumar808/Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/sawankumar808/Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/sawankumar808/Solutions/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/sawankumar808/Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sawankumar808/Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/sawankumar808/Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sawankumar808/Solutions/tree/master/0875-koko-eating-bananas) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sawankumar808/Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sawankumar808/Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sawankumar808/Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sawankumar808/Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/sawankumar808/Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sawankumar808/Solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sawankumar808/Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sawankumar808/Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sawankumar808/Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/sawankumar808/Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/sawankumar808/Solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/sawankumar808/Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/sawankumar808/Solutions/tree/master/0383-ransom-note) |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sawankumar808/Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sawankumar808/Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sawankumar808/Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sawankumar808/Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sawankumar808/Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/sawankumar808/Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sawankumar808/Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -337,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/sawankumar808/Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sawankumar808/Solutions/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/sawankumar808/Solutions/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/sawankumar808/Solutions/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/sawankumar808/Solutions/tree/master/1009-complement-of-base-10-integer) |
 ## Algorithm X
