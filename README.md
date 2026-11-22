@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sawankumar808/Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sawankumar808/Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2643-row-with-maximum-ones](https://github.com/sawankumar808/Solutions/tree/master/2643-row-with-maximum-ones) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/sawankumar808/Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3978-unique-middle-element](https://github.com/sawankumar808/Solutions/tree/master/3978-unique-middle-element) |
 ## Binary Search
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/sawankumar808/Solutions/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/sawankumar808/Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sawankumar808/Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/sawankumar808/Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## String
 |  |
 | ------- |
