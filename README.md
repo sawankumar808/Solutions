@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sawankumar808/Solutions/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/sawankumar808/Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/sawankumar808/Solutions/tree/master/0051-n-queens) |
+| [0073-set-matrix-zeroes](https://github.com/sawankumar808/Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sawankumar808/Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sawankumar808/Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sawankumar808/Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sawankumar808/Solutions/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/sawankumar808/Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sawankumar808/Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/sawankumar808/Solutions/tree/master/0085-maximal-rectangle) |
 | [2643-row-with-maximum-ones](https://github.com/sawankumar808/Solutions/tree/master/2643-row-with-maximum-ones) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sawankumar808/Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sawankumar808/Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sawankumar808/Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/sawankumar808/Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sawankumar808/Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/sawankumar808/Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/sawankumar808/Solutions/tree/master/0141-linked-list-cycle) |
